@@ -12,14 +12,23 @@ You will need to have the following software installed on your machine:
 . A modern web browser
 ### Installation
 Clone the repository to your local machine:
-bash
+```bash
+```
 **Copy code below:**
-''' git clone https://github.com/[username]/car-airbnb.git
+'''
+'''
+
+```
+git clone https://github.com/[username]/car-airbnb.git
+```
 
 ***Change into the project directory:***
-bash
-**Copy code below**
-''' cd car-airbnb
+
+```bash
+```
+
+``` cd car-airbnb
+```
 Open the index.html file in your web browser to launch the application.
 ### Features
 1. Rent a car from a list of available cars.
