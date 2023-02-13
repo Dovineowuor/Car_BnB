@@ -12,11 +12,9 @@ You will need to have the following software installed on your machine:
 . A modern web browser
 ### Installation
 Clone the repository to your local machine:
-```bash
-```
+``bash
+``
 **Copy code below:**
-'''
-'''
 
 ```
 git clone https://github.com/[username]/car-airbnb.git
@@ -24,8 +22,9 @@ git clone https://github.com/[username]/car-airbnb.git
 
 ***Change into the project directory:***
 
-```bash
-```
+``bash
+``
+
 
 ``` cd car-airbnb
 ```
