@@ -21,7 +21,7 @@ Clone the repository to your local machine:
 **Copy code below:**
 
 ```
-git clone https://github.com/[username]/car-airbnb.git
+git clone https://github.com/Dovineowuor/car-airbnb.git
 ```
 
 ***Change into the project directory:***
